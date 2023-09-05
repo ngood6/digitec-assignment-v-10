@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQPAAMAAAC/DwAA+wsAAL8PAAD7CwAAvw8AAPsLAAC/DwAA+wsAAL8PAAD7CwAAvw8AAPsLAAC/DwAA+wsAAL8PAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Roadspikes"
+    },
+    "song1": {
+        "data": "00780004080800",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
